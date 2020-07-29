@@ -43,7 +43,7 @@ function App() {
       category = {dadosIniciais.categorias[5]}
       />
 
-      <FooterBase/>
+      
 
     </div>
   );
